@@ -6,7 +6,7 @@ on:
       RECOVERY_URL:
         description: 'RECOVERY URL'
         required: true
-        default: 'https://transfer.sh/wjNo6v5Jea/recovery.img'
+        default: 'https://oshi.at/pXjy/AUVO.img'
 
 jobs:
   build:
